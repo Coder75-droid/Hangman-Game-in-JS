@@ -1,2 +1,3 @@
 # Hangman-Game-in-JS
-simple hangman game in JS run index to play after downloading
+simple hangman game in JS
+Run index to play after downloading the zip
